@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Ooey
-- 👀 I’m interested in Front End Design
+- 👀 I’m interested in Web Development
 - 🌱 I’m currently learning Reactjs
 - 📫 How to reach me: agamemnonsrf@gmail.com
 
